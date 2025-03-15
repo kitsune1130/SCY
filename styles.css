@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background:lightskyblue;
+    color: pink;
+    text-decoration: aliceblue;
+}
+img{
+    width: 600px;
+}
+table{
+    border-collapse: collapse;
+}
